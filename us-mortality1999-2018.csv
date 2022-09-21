@@ -1,0 +1,441 @@
+Leading Cancer Sites,Year,Count
+Brain and Other Nervous System,1999,12765
+Brain and Other Nervous System,2000,12655
+Brain and Other Nervous System,2001,12609
+Brain and Other Nervous System,2002,12830
+Brain and Other Nervous System,2003,12901
+Brain and Other Nervous System,2004,12829
+Brain and Other Nervous System,2005,13152
+Brain and Other Nervous System,2006,12886
+Brain and Other Nervous System,2007,13234
+Brain and Other Nervous System,2008,13724
+Brain and Other Nervous System,2009,14176
+Brain and Other Nervous System,2010,14164
+Brain and Other Nervous System,2011,14491
+Brain and Other Nervous System,2012,15276
+Brain and Other Nervous System,2013,15343
+Brain and Other Nervous System,2014,15997
+Brain and Other Nervous System,2015,16268
+Brain and Other Nervous System,2016,16834
+Brain and Other Nervous System,2017,16804
+Brain and Other Nervous System,2018,17126
+Breast,1999,41528
+Breast,2000,42300
+Breast,2001,41809
+Breast,2002,41883
+Breast,2003,41998
+Breast,2004,41316
+Breast,2005,41491
+Breast,2006,41209
+Breast,2007,40969
+Breast,2008,41026
+Breast,2009,41076
+Breast,2010,41435
+Breast,2011,41374
+Breast,2012,41555
+Breast,2013,41324
+Breast,2014,41676
+Breast,2015,41986
+Breast,2016,41951
+Breast,2017,42510
+Breast,2018,42949
+Cervix Uteri,1999,4204
+Cervix Uteri,2000,4200
+Cervix Uteri,2001,4092
+Cervix Uteri,2002,3952
+Cervix Uteri,2003,3919
+Cervix Uteri,2004,3850
+Cervix Uteri,2005,3924
+Cervix Uteri,2006,3976
+Cervix Uteri,2007,4021
+Cervix Uteri,2008,4008
+Cervix Uteri,2009,3909
+Cervix Uteri,2010,3939
+Cervix Uteri,2011,4092
+Cervix Uteri,2012,4074
+Cervix Uteri,2013,4217
+Cervix Uteri,2014,4115
+Cervix Uteri,2015,4175
+Cervix Uteri,2016,4188
+Cervix Uteri,2017,4207
+Cervix Uteri,2018,4138
+Colon and Rectum,1999,57222
+Colon and Rectum,2000,57434
+Colon and Rectum,2001,56808
+Colon and Rectum,2002,56603
+Colon and Rectum,2003,55783
+Colon and Rectum,2004,53580
+Colon and Rectum,2005,53005
+Colon and Rectum,2006,53196
+Colon and Rectum,2007,53219
+Colon and Rectum,2008,52857
+Colon and Rectum,2009,51848
+Colon and Rectum,2010,52045
+Colon and Rectum,2011,51783
+Colon and Rectum,2012,51516
+Colon and Rectum,2013,51813
+Colon and Rectum,2014,51651
+Colon and Rectum,2015,52396
+Colon and Rectum,2016,52286
+Colon and Rectum,2017,52547
+Colon and Rectum,2018,52163
+Corpus Uteri,1999,3121
+Corpus Uteri,2000,3139
+Corpus Uteri,2001,3185
+Corpus Uteri,2002,3187
+Corpus Uteri,2003,3261
+Corpus Uteri,2004,3272
+Corpus Uteri,2005,3259
+Corpus Uteri,2006,3449
+Corpus Uteri,2007,3377
+Corpus Uteri,2008,3436
+Corpus Uteri,2009,3333
+Corpus Uteri,2010,3644
+Corpus Uteri,2011,3714
+Corpus Uteri,2012,3812
+Corpus Uteri,2013,3903
+Corpus Uteri,2014,4160
+Corpus Uteri,2015,4350
+Corpus Uteri,2016,5410
+Corpus Uteri,2017,5962
+Corpus Uteri,2018,6416
+Esophagus,1999,11917
+Esophagus,2000,12232
+Esophagus,2001,12529
+Esophagus,2002,12700
+Esophagus,2003,12860
+Esophagus,2004,13023
+Esophagus,2005,13499
+Esophagus,2006,13685
+Esophagus,2007,13592
+Esophagus,2008,13714
+Esophagus,2009,13908
+Esophagus,2010,14490
+Esophagus,2011,14446
+Esophagus,2012,14649
+Esophagus,2013,14689
+Esophagus,2014,14935
+Esophagus,2015,15211
+Esophagus,2016,15459
+Esophagus,2017,15321
+Esophagus,2018,15419
+Gallbladder,1999,2059
+Gallbladder,2000,1949
+Gallbladder,2001,1971
+Gallbladder,2002,1907
+Gallbladder,2003,1915
+Gallbladder,2004,1936
+Gallbladder,2005,1989
+Gallbladder,2006,2000
+Gallbladder,2007,1914
+Gallbladder,2008,1971
+Gallbladder,2009,2048
+Gallbladder,2010,2105
+Gallbladder,2011,2101
+Gallbladder,2012,2102
+Gallbladder,2013,2160
+Gallbladder,2014,2278
+Gallbladder,2015,2124
+Gallbladder,2016,2168
+Gallbladder,2017,2195
+Gallbladder,2018,2180
+Kidney and Renal Pelvis,1999,11116
+Kidney and Renal Pelvis,2000,11736
+Kidney and Renal Pelvis,2001,12078
+Kidney and Renal Pelvis,2002,12165
+Kidney and Renal Pelvis,2003,12286
+Kidney and Renal Pelvis,2004,12313
+Kidney and Renal Pelvis,2005,12517
+Kidney and Renal Pelvis,2006,12379
+Kidney and Renal Pelvis,2007,12703
+Kidney and Renal Pelvis,2008,12895
+Kidney and Renal Pelvis,2009,12995
+Kidney and Renal Pelvis,2010,13219
+Kidney and Renal Pelvis,2011,13559
+Kidney and Renal Pelvis,2012,13518
+Kidney and Renal Pelvis,2013,13906
+Kidney and Renal Pelvis,2014,13917
+Kidney and Renal Pelvis,2015,14448
+Kidney and Renal Pelvis,2016,13842
+Kidney and Renal Pelvis,2017,13959
+Kidney and Renal Pelvis,2018,14134
+Larynx,1999,3815
+Larynx,2000,3861
+Larynx,2001,3797
+Larynx,2002,3722
+Larynx,2003,3791
+Larynx,2004,3668
+Larynx,2005,3796
+Larynx,2006,3821
+Larynx,2007,3634
+Larynx,2008,3760
+Larynx,2009,3630
+Larynx,2010,3691
+Larynx,2011,3732
+Larynx,2012,3662
+Larynx,2013,3729
+Larynx,2014,3757
+Larynx,2015,3763
+Larynx,2016,3866
+Larynx,2017,3708
+Larynx,2018,3777
+Leukemias,1999,21071
+Leukemias,2000,21397
+Leukemias,2001,21532
+Leukemias,2002,21581
+Leukemias,2003,21608
+Leukemias,2004,21472
+Leukemias,2005,21716
+Leukemias,2006,22016
+Leukemias,2007,21928
+Leukemias,2008,22431
+Leukemias,2009,22688
+Leukemias,2010,22673
+Leukemias,2011,23194
+Leukemias,2012,23309
+Leukemias,2013,23549
+Leukemias,2014,23564
+Leukemias,2015,22847
+Leukemias,2016,23287
+Leukemias,2017,23527
+Leukemias,2018,23503
+Liver,1999,9830
+Liver,2000,10192
+Liver,2001,10489
+Liver,2002,11048
+Liver,2003,11423
+Liver,2004,11831
+Liver,2005,12544
+Liver,2006,12832
+Liver,2007,13291
+Liver,2008,14176
+Liver,2009,14963
+Liver,2010,15537
+Liver,2011,16631
+Liver,2012,17616
+Liver,2013,18394
+Liver,2014,18903
+Liver,2015,19530
+Liver,2016,19855
+Liver,2017,20090
+Liver,2018,20222
+Lung and Bronchus,1999,152061
+Lung and Bronchus,2000,155426
+Lung and Bronchus,2001,155969
+Lung and Bronchus,2002,157630
+Lung and Bronchus,2003,157990
+Lung and Bronchus,2004,158006
+Lung and Bronchus,2005,159217
+Lung and Bronchus,2006,158599
+Lung and Bronchus,2007,158683
+Lung and Bronchus,2008,158592
+Lung and Bronchus,2009,158081
+Lung and Bronchus,2010,158248
+Lung and Bronchus,2011,156953
+Lung and Bronchus,2012,157423
+Lung and Bronchus,2013,156176
+Lung and Bronchus,2014,155526
+Lung and Bronchus,2015,153718
+Lung and Bronchus,2016,148869
+Lung and Bronchus,2017,145849
+Lung and Bronchus,2018,142080
+Melanoma of the Skin,1999,7215
+Melanoma of the Skin,2000,7420
+Melanoma of the Skin,2001,7542
+Melanoma of the Skin,2002,7513
+Melanoma of the Skin,2003,7818
+Melanoma of the Skin,2004,7952
+Melanoma of the Skin,2005,8345
+Melanoma of the Skin,2006,8441
+Melanoma of the Skin,2007,8461
+Melanoma of the Skin,2008,8623
+Melanoma of the Skin,2009,9199
+Melanoma of the Skin,2010,9154
+Melanoma of the Skin,2011,9128
+Melanoma of the Skin,2012,9251
+Melanoma of the Skin,2013,9394
+Melanoma of the Skin,2014,9324
+Melanoma of the Skin,2015,8885
+Melanoma of the Skin,2016,8188
+Melanoma of the Skin,2017,8056
+Melanoma of the Skin,2018,8199
+Myeloma,1999,10508
+Myeloma,2000,10639
+Myeloma,2001,10714
+Myeloma,2002,10913
+Myeloma,2003,10809
+Myeloma,2004,10578
+Myeloma,2005,10758
+Myeloma,2006,10712
+Myeloma,2007,10872
+Myeloma,2008,10606
+Myeloma,2009,10690
+Myeloma,2010,11022
+Myeloma,2011,11411
+Myeloma,2012,11821
+Myeloma,2013,11801
+Myeloma,2014,12112
+Myeloma,2015,12231
+Myeloma,2016,12266
+Myeloma,2017,12322
+Myeloma,2018,12326
+Non-Hodgkin Lymphoma,1999,22802
+Non-Hodgkin Lymphoma,2000,22729
+Non-Hodgkin Lymphoma,2001,22305
+Non-Hodgkin Lymphoma,2002,21910
+Non-Hodgkin Lymphoma,2003,21475
+Non-Hodgkin Lymphoma,2004,20938
+Non-Hodgkin Lymphoma,2005,20873
+Non-Hodgkin Lymphoma,2006,20593
+Non-Hodgkin Lymphoma,2007,20528
+Non-Hodgkin Lymphoma,2008,20368
+Non-Hodgkin Lymphoma,2009,20389
+Non-Hodgkin Lymphoma,2010,20294
+Non-Hodgkin Lymphoma,2011,20317
+Non-Hodgkin Lymphoma,2012,20388
+Non-Hodgkin Lymphoma,2013,20113
+Non-Hodgkin Lymphoma,2014,20387
+Non-Hodgkin Lymphoma,2015,20154
+Non-Hodgkin Lymphoma,2016,20268
+Non-Hodgkin Lymphoma,2017,20459
+Non-Hodgkin Lymphoma,2018,20287
+Oral Cavity and Pharynx,1999,7486
+Oral Cavity and Pharynx,2000,7492
+Oral Cavity and Pharynx,2001,7701
+Oral Cavity and Pharynx,2002,7737
+Oral Cavity and Pharynx,2003,7777
+Oral Cavity and Pharynx,2004,7826
+Oral Cavity and Pharynx,2005,7773
+Oral Cavity and Pharynx,2006,7720
+Oral Cavity and Pharynx,2007,8067
+Oral Cavity and Pharynx,2008,8019
+Oral Cavity and Pharynx,2009,7922
+Oral Cavity and Pharynx,2010,8474
+Oral Cavity and Pharynx,2011,8657
+Oral Cavity and Pharynx,2012,8924
+Oral Cavity and Pharynx,2013,8850
+Oral Cavity and Pharynx,2014,9404
+Oral Cavity and Pharynx,2015,9754
+Oral Cavity and Pharynx,2016,10170
+Oral Cavity and Pharynx,2017,10126
+Oral Cavity and Pharynx,2018,10158
+Ovary,1999,13627
+Ovary,2000,14060
+Ovary,2001,14414
+Ovary,2002,14682
+Ovary,2003,14657
+Ovary,2004,14716
+Ovary,2005,14787
+Ovary,2006,14857
+Ovary,2007,14621
+Ovary,2008,14362
+Ovary,2009,14436
+Ovary,2010,14572
+Ovary,2011,14346
+Ovary,2012,14404
+Ovary,2013,14276
+Ovary,2014,14195
+Ovary,2015,13920
+Ovary,2016,14223
+Ovary,2017,14193
+Ovary,2018,13748
+Pancreas,1999,29081
+Pancreas,2000,29331
+Pancreas,2001,29802
+Pancreas,2002,30263
+Pancreas,2003,30777
+Pancreas,2004,31771
+Pancreas,2005,32759
+Pancreas,2006,33454
+Pancreas,2007,34117
+Pancreas,2008,35234
+Pancreas,2009,35628
+Pancreas,2010,36888
+Pancreas,2011,37344
+Pancreas,2012,38797
+Pancreas,2013,38996
+Pancreas,2014,40418
+Pancreas,2015,41615
+Pancreas,2016,42757
+Pancreas,2017,44011
+Pancreas,2018,44914
+Prostate,1999,31728
+Prostate,2000,31078
+Prostate,2001,30719
+Prostate,2002,30446
+Prostate,2003,29554
+Prostate,2004,29002
+Prostate,2005,28905
+Prostate,2006,28372
+Prostate,2007,29093
+Prostate,2008,28471
+Prostate,2009,28088
+Prostate,2010,28560
+Prostate,2011,27970
+Prostate,2012,27244
+Prostate,2013,27681
+Prostate,2014,28343
+Prostate,2015,28848
+Prostate,2016,30370
+Prostate,2017,30486
+Prostate,2018,31488
+Stomach,1999,12711
+Stomach,2000,12645
+Stomach,2001,12319
+Stomach,2002,12198
+Stomach,2003,12110
+Stomach,2004,11859
+Stomach,2005,11514
+Stomach,2006,11345
+Stomach,2007,11388
+Stomach,2008,11352
+Stomach,2009,11184
+Stomach,2010,11390
+Stomach,2011,11035
+Stomach,2012,11191
+Stomach,2013,11261
+Stomach,2014,11311
+Stomach,2015,11330
+Stomach,2016,11433
+Stomach,2017,11158
+Stomach,2018,11043
+Thyroid,1999,1241
+Thyroid,2000,1328
+Thyroid,2001,1354
+Thyroid,2002,1367
+Thyroid,2003,1312
+Thyroid,2004,1409
+Thyroid,2005,1462
+Thyroid,2006,1518
+Thyroid,2007,1562
+Thyroid,2008,1649
+Thyroid,2009,1707
+Thyroid,2010,1686
+Thyroid,2011,1747
+Thyroid,2012,1690
+Thyroid,2013,1850
+Thyroid,2014,1832
+Thyroid,2015,1894
+Thyroid,2016,2042
+Thyroid,2017,1892
+Thyroid,2018,2025
+Urinary Bladder,1999,11910
+Urinary Bladder,2000,12002
+Urinary Bladder,2001,12225
+Urinary Bladder,2002,12627
+Urinary Bladder,2003,12483
+Urinary Bladder,2004,13030
+Urinary Bladder,2005,13253
+Urinary Bladder,2006,13474
+Urinary Bladder,2007,13843
+Urinary Bladder,2008,14036
+Urinary Bladder,2009,14201
+Urinary Bladder,2010,14730
+Urinary Bladder,2011,15014
+Urinary Bladder,2012,15245
+Urinary Bladder,2013,15757
+Urinary Bladder,2014,15775
+Urinary Bladder,2015,16254
+Urinary Bladder,2016,16646
+Urinary Bladder,2017,16657
+Urinary Bladder,2018,16641

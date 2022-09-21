@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cancer Statistics</title>
+    <style>
+      body {
+        background-color: rgb(235, 235, 235);
+      }
+      #wrap {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-around;
+        align-items: center;
+        margin-top: 6rem;
+      }
+      #wrap svg {
+        border: 1px solid rgba(0, 0, 0, 0.245);
+        background-color: rgb(255, 255, 255);
+        padding: 1rem;
+      }
+      #under {
+        margin-top: 0rem;
+        display: flex;
+        justify-content: center;
+        margin-top: 2rem;
+      }
+      #under > select,
+      #under > #radioDiv {
+        margin: 0 0.5rem 0 0.5rem;
+      }
+      .bar {
+        fill: rgb(93, 167, 228);
+      }
+      .toolTip {
+        position: absolute;
+        display: none;
+        min-width: 80px;
+        height: auto;
+        background: none repeat scroll 0 0 #ffffff;
+        border: 1px solid #00000096;
+        padding: 7px;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <div id="wrap"></div>
+    <div id="under"></div>
+    <script src="./index.js"></script>
+  </body>
+</html>
